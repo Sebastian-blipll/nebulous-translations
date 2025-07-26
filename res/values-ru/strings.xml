@@ -1,3 +1,70 @@
+    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Достичь 5.000 очков в течение 1 минуты после начала игры"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Взорвите черной дырой игрока, который взорвал черной дырой вас без перезахода."</string>
+    <string name="Absorb_5_doges_without_restarting">"Поглотить 5 скинов собачек без перезагрузки"</string>
+
+    <string name="Friends">"Друзья"</string>
+    <string name="Dots_Eaten_">"Съедено точек:"</string>
+    <string name="Blobs_Eaten_">"Съедено шаров:"</string>
+    <string name="Blobs_Lost_">"Потеряно шаров:"</string>
+    <string name="Mass_Gained_">"Накопленная масса:"</string>
+    <string name="Mass_Ejected_">"Выброшенная масса:"</string>
+    <string name="Times_Ejected_">"Кол-во выбрасываний:"</string>
+    <string name="Times_Split_">"Кол-во разделений:"</string>
+    <string name="Biggest_Blob_">"Крупнейший шар:"</string>
+    <string name="Highest_Score_">"Самый большой счёт:"</string>
+    <string name="Average_Score_">"Средний счёт:"</string>
+    <string name="Times_Played_">"Количество игр:"</string>
+    <string name="Longest_Life_">"Самая долгая жизнь:"</string>
+    <string name="Games_Won_">"Игр выиграно:"</string>
+
+    <string name="You_must_wait_until_the_end_of_the_round_">"Ожидайте окончания раунда."</string>
+    <string name="Dont_show_again">"Не показывать снова"</string>
+    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Найдена резервная копия одиночной статистики с большим опытом. Вы желаете загрузить ее?"</string>
+
+    <string name="Special_Effects">"Эффекты"</string>
+    <string name="Blob_Mushiness">"Упругость шара"</string>
+
+    <string name="Specify_private_game_name">"Укажите название игры."</string>
+    <string name="In_Game_Chat">"Внутри-игровой чат"</string>
+    <string name="My_Status_">"Мой статус:"</string>
+    <string name="Game_Size_">"Размер игрового поля:"</string>
+
+    <string name="Server_Restart_">"Перезапуск сервера:"</string>
+    <string name="GOAL_">"ГОЛ!"</string>
+    <string name="SOCCER">"Футбол"</string>
+    <string name="DRAW">"НИЧЬЯ!"</string>
+
+    <string name="Clan_Name">"Название клана"</string>
+    <string name="Clan">"Клан"</string>
+
+
+    <string name="JOIN_CLAN">"Присоединиться к клану"</string>
+    <string name="JOIN_RANDOM_CLAN">"Присоединиться в любой клан"</string>
+    <string name="LEAVE_CLAN">"Покинуть клан"</string>
+    <string name="INVITE_MEMBER">"Пригласить"</string>
+    <string name="REMOVE_MEMBER">"Выгнать игрока"</string>
+
+
+    <string name="CREATE_CLAN">"Создать клан"</string>
+    <string name="MEMBER">"Участник"</string>
+    <string name="ADMIN">"Админ"</string>
+    <string name="LEADER">"Лидер"</string>
+    <string name="ELDER">"Старейшина"</string>
+
+
+    <string name="Not_in_a_clan_">"Не в клане."</string>
+
+
+    <string name="CLAN">"КЛАН"</string>
+
+
+    <string name="Specify_Clan_ID">"Укажите ID клана"</string>
+    <string name="Show_Clan_Names">"Отображать названия кланов"</string>
+    <string name="Show_Levels">"Отображать уровни"</string>
+    <string name="SET_MOTD">"Сохранить описание"</string>
+    <string name="No_such_user_found_">"Такого пользователя не найдено."</string>
+    <string name="No_open_public_clans_exist_">"Не существует открытых общественных кланов."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Вы не приглашены в этот клан."</string>
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
 
@@ -148,149 +215,12 @@
     <string name="Clan_XP">"Опыт клана"</string>
 
 
-    <string name="Dot_Nibbler">"Зубастик"</string>
-    <string name="Dot_Muncher">"Измельчитель"</string>
-    <string name="Dot_Eater">"Пожиратель"</string>
-    <string name="Dot_Gulper">"Пожиратель II"</string>
-    <string name="Dot_Gobbler">"Пожиратель III"</string>
-    <string name="Dot_Devourer">"Главный пожиратель"</string>
-    <string name="Dot_Gormandizer">"Заглатыватель"</string>
-    <string name="Dot_Sommelier">"Акула"</string>
 
-    <string name="Quadra_Gulp">"Квадро-глоток"</string>
-    <string name="Multi_Gulp">"Мульти-глоток"</string>
-    <string name="Mega_Gulp">"Мега-глоток"</string>
-    <string name="Ultra_Gulp">"Ультра-глоток"</string>
-    <string name="Monster_Gulp">"Монстро-глоток"</string>
-    <string name="Ludicrous_Gulp">"Невозможный-глоток"</string>
-
-    <string name="Blobicide">"Блобицид"</string>
-    <string name="Blobtrocity">"Блобоцид II"</string>
-    <string name="Blobaccre">"Блобоцид III"</string>
-    <string name="Blobastrophe">"Блобострофа"</string>
-    <string name="Blobihilation">"Блобохилейшен"</string>
-    <string name="Blobageddon">"Блобогеддон"</string>
-    <string name="Blobocalypse">"Блобоколлапс"</string>
-
-    <string name="Experienced_Nebulator">"Опытный игрок Nebulous"</string>
-    <string name="Expert_Nebulator">"Эксперт Nebulous "</string>
-    <string name="Master_Nebulator">"Мастер Nebulous"</string>
-    <string name="Grand_Master_Nebulator">"Великий мастер Nebulous"</string>
-    <string name="Impossible">"Это невозможно…"</string>
-
-    <string name="Perfection">"Вы - само совершенство!"</string>
-    <string name="Single_Handedly">"Единоличник"</string>
-    <string name="Dodgey">"Изворотливый"</string>
-    <string name="Self_Contained">"Один в поле воин…"</string>
-    <string name="Survivalist">"Выживший"</string>
-    <string name="Ultramassive">"Ультра-массивный"</string>
-    <string name="Rapid_Ascension">"Быстрое возвышение"</string>
-    <string name="Revenge">"Месть"</string>
-    <string name="Doge_Pound">"Поедатель собачек"</string>
-
-    <string name="Absorb_50_dots">"Поглотить 50 точек"</string>
-    <string name="Absorb_300_dots">"Поглотить 300 точек"</string>
-    <string name="Absorb_1_000_dots">"Поглотить 1.000 точек"</string>
-    <string name="Absorb_5_000_dots">"Поглотить 5.000 точек"</string>
-    <string name="Absorb_10_000_dots">"Поглотить 10.000 точек"</string>
-    <string name="Absorb_50_000_dots">"Поглотить 50.000 точек"</string>
-    <string name="Absorb_100_000_dots">"Поглотить 100.000 точек"</string>
-    <string name="Absorb_1_000_000_dots">"Поглотить 1.000.000 точек"</string>
-
-    <string name="Absorb_4_blobs_quickly">"Быстро поглотить 4 шара"</string>
-    <string name="Absorb_8_blobs_quickly">"Быстро поглотить 8 шаров"</string>
-    <string name="Absorb_16_blobs_quickly">"Быстро поглотить 16 шаров"</string>
-    <string name="Absorb_24_blobs_quickly">"Быстро поглотить 24 шара"</string>
-    <string name="Absorb_32_blobs_quickly">"Быстро поглотить 32 шара"</string>
-    <string name="Absorb_40_blobs_quickly">"Быстро поглотить 40 шаров"</string>
-
-    <string name="Absorb_8_player_blobs_without_restarting">"Поглотить 8 игроков, не умирая"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"Поглотить 16 игроков, не умирая"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"Поглотить 32 игрока, не умирая"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"Поглотить 48 игроков, не умирая"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"Поглотить 80 игроков, не умирая"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"Поглотить 160 игроков, не умирая"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"Поглотить 240 игроков, не умирая"</string>
-
-    <string name="Reach_a_score_of_1_000">"Достичь 1.000 очков"</string>
-    <string name="Reach_a_score_of_5_000">"Достичь 5.000 очков"</string>
-    <string name="Reach_a_score_of_10_000">"Достичь 10.000 очков"</string>
-    <string name="Reach_a_score_of_15_000">"Достичь 15.000 очков"</string>
-    <string name="Reach_a_score_of_20_000">"Достичь 20.000 очков"</string>
-
-    <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Достичь 10.000 очков без потери каких-либо частей"</string>
-    <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Достичь 5.000 очков без разделения или выбрасывания"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Играть 5 минут, не сталкиваясь с черной дырой"</string>
     <string name="Play_5_minutes_straight_without_losing_any_blobs">"Играть 5 минут без потери каких-либо частей"</string>
     <string name="Play_20_minutes_straight_without_restarting">"Играть 20 минут без перезахода"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Поглотить 5 сверхмассивных черных дыр в течение 30 секунд после начала игры"</string>
-    <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Достичь 5.000 очков в течение 1 минуты после начала игры"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Взорвите черной дырой игрока, который взорвал черной дырой вас без перезахода."</string>
-    <string name="Absorb_5_doges_without_restarting">"Поглотить 5 скинов собачек без перезагрузки"</string>
 
-    <string name="Friends">"Друзья"</string>
-    <string name="Dots_Eaten_">"Съедено точек:"</string>
-    <string name="Blobs_Eaten_">"Съедено шаров:"</string>
-    <string name="Blobs_Lost_">"Потеряно шаров:"</string>
-    <string name="Mass_Gained_">"Накопленная масса:"</string>
-    <string name="Mass_Ejected_">"Выброшенная масса:"</string>
-    <string name="Times_Ejected_">"Кол-во выбрасываний:"</string>
-    <string name="Times_Split_">"Кол-во разделений:"</string>
-    <string name="Biggest_Blob_">"Крупнейший шар:"</string>
-    <string name="Highest_Score_">"Самый большой счёт:"</string>
-    <string name="Average_Score_">"Средний счёт:"</string>
-    <string name="Times_Played_">"Количество игр:"</string>
-    <string name="Longest_Life_">"Самая долгая жизнь:"</string>
-    <string name="Games_Won_">"Игр выиграно:"</string>
-
-    <string name="You_must_wait_until_the_end_of_the_round_">"Ожидайте окончания раунда."</string>
-    <string name="Dont_show_again">"Не показывать снова"</string>
-    <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Найдена резервная копия одиночной статистики с большим опытом. Вы желаете загрузить ее?"</string>
-
-    <string name="Special_Effects">"Эффекты"</string>
-    <string name="Blob_Mushiness">"Упругость шара"</string>
-
-    <string name="Specify_private_game_name">"Укажите название игры."</string>
-    <string name="In_Game_Chat">"Внутри-игровой чат"</string>
-    <string name="My_Status_">"Мой статус:"</string>
-    <string name="Game_Size_">"Размер игрового поля:"</string>
-
-    <string name="Server_Restart_">"Перезапуск сервера:"</string>
-    <string name="GOAL_">"ГОЛ!"</string>
-    <string name="SOCCER">"Футбол"</string>
-    <string name="DRAW">"НИЧЬЯ!"</string>
-
-    <string name="Clan_Name">"Название клана"</string>
-    <string name="Clan">"Клан"</string>
-
-
-    <string name="JOIN_CLAN">"Присоединиться к клану"</string>
-    <string name="JOIN_RANDOM_CLAN">"Присоединиться в любой клан"</string>
-    <string name="LEAVE_CLAN">"Покинуть клан"</string>
-    <string name="INVITE_MEMBER">"Пригласить"</string>
-    <string name="REMOVE_MEMBER">"Выгнать игрока"</string>
-
-
-    <string name="CREATE_CLAN">"Создать клан"</string>
-    <string name="MEMBER">"Участник"</string>
-    <string name="ADMIN">"Админ"</string>
-    <string name="LEADER">"Лидер"</string>
-    <string name="ELDER">"Старейшина"</string>
-
-
-    <string name="Not_in_a_clan_">"Не в клане."</string>
-
-
-    <string name="CLAN">"КЛАН"</string>
-
-
-    <string name="Specify_Clan_ID">"Укажите ID клана"</string>
-    <string name="Show_Clan_Names">"Отображать названия кланов"</string>
-    <string name="Show_Levels">"Отображать уровни"</string>
-    <string name="SET_MOTD">"Сохранить описание"</string>
-    <string name="No_such_user_found_">"Такого пользователя не найдено."</string>
-    <string name="No_open_public_clans_exist_">"Не существует открытых общественных кланов."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Вы не приглашены в этот клан."</string>
     <string name="No_such_clan_exists_">"Такого клана не существует."</string>
     <string name="That_clan_is_full_">"Клан полон."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Этот пользователь не является членом вашего клана."</string>
